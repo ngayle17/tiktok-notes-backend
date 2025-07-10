@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+transformers
+torch
+youtube_dl
+ffmpeg-python
+openai-whisper
