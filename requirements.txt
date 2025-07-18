@@ -5,3 +5,4 @@ torch
 youtube_dl
 ffmpeg-python
 openai-whisper
+yt-dlp
